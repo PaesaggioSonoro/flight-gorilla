@@ -12,7 +12,7 @@ Unlike basic booking apps, FlightGorilla integrates a flexible location model (c
 
 The system is built as a full-stack solution with both Python (Flask) and Node.js (Express) backend implementations, making it ideal for educational use, scalable deployments, or enterprise prototyping. The architecture supports containerization, RESTful APIs, and modular design with strict separation of concerns.
 
-
+![Home image](https://github.com/PaesaggioSonoro/flight-gorilla/blob/main/docs/images/home.png?raw=true)
 ---
 
 ## 🔧 Architecture
