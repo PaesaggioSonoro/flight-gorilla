@@ -70,3 +70,8 @@ FlightGorilla/
 │
 ├── docker-compose-ts.yml     # Docker Compose for TS backend
 └── .gitignore
+```
+
+
+## Webpage examples
+[UI Overview](https://github.com/PaesaggioSonoro/flight-gorilla/blob/main/docs/UI_PREVIEW.md)
